@@ -36,7 +36,10 @@ Não há instalação! Apenas executável!
 Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+
+<a href="https://github.com/2025-2-NADS1/Projeto2"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">PicWords</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> © 2025 por </font></font><a href="https://creativecommons.org"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">José Antônio da Silva de Aguiar, Luiza Sardinha Alde, Bruno de Brito Faccio, Maria Luisa Silva Lima</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> está licenciada sob </font></font><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">CC BY-NC-ND 4.0</font></font></a>
+<br>
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
