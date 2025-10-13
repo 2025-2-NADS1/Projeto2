@@ -11,7 +11,7 @@
 
 ## Integrantes: <a href="www.linkedin.com/in/ozeaguiar">José Aguiar</a>, <a href="">Bruno Faccio</a>, <a href="">Luiza Alde</a>, <a href="">Maria Luisa</a>
 
-## Professores Orientadores: <a href="">Victor Rossetti</a>, <a href="">Ronaldo Savino</a>, <a href="">Lucy Tabuti</a>, <a href="">Aimar Martins</a>, <a href="">Renata Muniz</a>,<a href=""> Ronaldo Araujo </a>
+## Professores Orientadores: <a href="">Victor Rossetti</a>, <a href="">Eduardo Savino</a>, <a href="">Lucy Tabuti</a>, <a href="">Aimar Martins</a>, <a href="">Renata Muniz</a>,<a href=""> Ronaldo Araujo </a>
 
 ## Descrição
 
