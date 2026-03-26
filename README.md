@@ -16,7 +16,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://i.imgur.com/v9ZR6eX.png" alt="PICWORDS" border="0">
+<img src="[https://i.imgur.com/v9ZR6eX.png](https://imgur.com/a/zom3Rs9)" alt="PICWORDS" border="0">
   Game by <a href="">José Aguiar, Bruno Faccio, Luiza Alde, Maria Luisa</a> <a rel="license" href="">FECAP LIBERDADE 1ADS</a> <a href="">moodle</a>
 </p>
 
